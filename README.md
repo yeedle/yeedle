@@ -5,6 +5,6 @@
  - 🙂 Abraham "Yeedle" Neuwirth (he/him)
  - 💻 proficient in Python, Java/C#, and Javascript, and a dabbler in many other languages
  - 🖥️ Highly experienced with Vue.js, Express.js, PostgreSQL and many more
-- 🔭 I’m currently working as a full stack software developer at [owal](https://www.owal.io/)
-- 🌱 I’m currently learning Flutter/Dart.
+- 🔭 I’m currently working as a full stack software engineer at [TrialSpark](https://www.trialspark.com/)
+- 🌱 I’m currently learning React.
 - 📫 Reach me by [email](mailto:abeneuwirth@gmail.com) or [linkedin](https://www.linkedin.com/in/yeedle/)
